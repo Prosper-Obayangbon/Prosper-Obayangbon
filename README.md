@@ -7,7 +7,7 @@ I am a Computer Science postgraduate student with a passion for mobile app devel
 - Languages**: Kotlin (currently learning), Java, Python
 - Mobile Development**: Android Studio, Jetpack Compose
 - Data Science & AI: Classification, Python (NumPy, Pandas, scikit-learn)
-- Big Data & BI**: Power BI, Data Visualization
+- Big Data & BI: Power BI, Data Visualization
 - Version Control**: Git, GitHub
 
 📚 Coursework
@@ -24,5 +24,5 @@ I am a Computer Science postgraduate student with a passion for mobile app devel
 📫 Let's Connect
 
 - Email: obayangbonnosa@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: 
 
